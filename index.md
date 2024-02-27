@@ -23,3 +23,11 @@ ax.set_xlabel("x", labelpad=20) # <- Use labelpad to avoid overlapping
 ax.set_ylabel("y", labelpad=20)
 ax.set_zlabel("t", labelpad=20)
 ```
+
+
+### Task list
+this can be useful as well expecially for the main readme of files, i should add i in my profile readme as well
+
+- [x] I did this 
+- [x] And i also did this thing here
+- [ ] But i still haven't done this one because i'm lazy :/
